@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidListViewStringArray</string>
+
+    <string-array name="list">
+        <item>hoge</item>
+        <item>fuga</item>
+        <item>piyo</item>
+    </string-array>
 </resources>
